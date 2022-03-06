@@ -1,0 +1,15 @@
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpRandomInterface\obj\Debug\net6.0\CSharpRandomInterface.csproj.AssemblyReference.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpRandomInterface\obj\Debug\net6.0\CSharpRandomInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpRandomInterface\obj\Debug\net6.0\CSharpRandomInterface.AssemblyInfoInputs.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpRandomInterface\obj\Debug\net6.0\CSharpRandomInterface.AssemblyInfo.cs
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpRandomInterface\obj\Debug\net6.0\CSharpRandomInterface.csproj.CoreCompileInputs.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpRandomInterface\bin\Debug\net6.0\CSharpRandomInterface.exe
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpRandomInterface\bin\Debug\net6.0\CSharpRandomInterface.deps.json
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpRandomInterface\bin\Debug\net6.0\CSharpRandomInterface.runtimeconfig.json
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpRandomInterface\bin\Debug\net6.0\CSharpRandomInterface.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpRandomInterface\bin\Debug\net6.0\CSharpRandomInterface.pdb
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpRandomInterface\obj\Debug\net6.0\CSharpRandomInterface.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpRandomInterface\obj\Debug\net6.0\refint\CSharpRandomInterface.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpRandomInterface\obj\Debug\net6.0\CSharpRandomInterface.pdb
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpRandomInterface\obj\Debug\net6.0\CSharpRandomInterface.genruntimeconfig.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpRandomInterface\obj\Debug\net6.0\ref\CSharpRandomInterface.dll
